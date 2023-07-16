@@ -52,11 +52,6 @@ pc = pycratsh(600,600,60)
 
 pc.init()
 
-class Dog(pc.Sprite):
-    def move(self,speed):
-        self.x += 5
-        self.y += 1
-
 window = pc.WINDOW
 running = True
 
@@ -64,6 +59,7 @@ dog = Dog(200,200,"images\\cat1.svg",100,100)
 
 while running:
     pc.tick()
+
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
@@ -73,13 +69,3 @@ while running:
     pygame.display.flip()
 
 pygame.quit()
-
-
-
-
-
-
-
-
-
-
