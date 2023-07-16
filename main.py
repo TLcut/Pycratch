@@ -46,7 +46,7 @@ class pycratsh:
             surface.blit(self.image, (self.x, self.y))
         
 
-""" ---------------------------------------- """
+""" --------------------testing-------------------- """
 
 pc = pycratsh(600,600,60)
 
