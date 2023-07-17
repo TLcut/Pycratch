@@ -1,2 +1,4 @@
 # PYCRATCH
-> To get lots of joys without frustration by pycratch
+'''
+To get lots of joys without frustration
+'''
