@@ -1,2 +1,2 @@
 # PYCRATCH
-> To get lots of joys without frustration,now it's possible!
+> To get lots of joys without frustration is available!^_^
